@@ -7,7 +7,6 @@
 // @match         https://www.geoguessr.com/*
 // @grant         GM_addStyle
 // @run-at        document-start
-// @require       https://raw.githubusercontent.com/beymenler/Geoguessr-Location-Finder/main/GeoguessrLogic.js
 //
 // @downloadURL https://update.greasyfork.org/scripts/552925/123.user.js
 // @updateURL https://update.greasyfork.org/scripts/552925/123.meta.js
@@ -216,3 +215,4 @@
 
 
 })();
+
